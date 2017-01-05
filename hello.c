@@ -5,5 +5,6 @@ void main()
 	int i=0;
 
 	printf("ITQC Git Trainning : Hello ~ ");
+        printf("diff test");
 
 }
